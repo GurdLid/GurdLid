@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Software Engineer with an interest in Quantitative Finance, Machine Learning and Physics.
+Aspiring Software Engineer with interest in Quantitative Finance, Machine Learning and Physics.
 
 
 # Tech Stack:
