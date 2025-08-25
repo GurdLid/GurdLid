@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Software Engineer with interest in Quantitative Finance, Machine Learning and Physics.
+Site Reliability Engineer with interest in Quantitative Finance, Machine Learning and Physics.
 
 
 # Tech Stack:
